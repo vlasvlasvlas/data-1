@@ -1,135 +1,135 @@
-short_name,official_name,ISO3
-Albania,Republic of Albania,ALB
-Angola,Republic of Angola,AGO
-Argentina,Argentine Republic,ARG
-Armenia,Republic of Armenia,ARM
-Australia,Commonwealth of Australia,AUS
-Austria,Republic of Austria,AUT
-Azerbaijan,Republic of Azerbaijan,AZE
-Bahamas,Commonwealth of the Bahamas,BHS
-Bahrain,Kingdom of Bahrain,BHR
-Bangladesh,People's Republic of Bangladesh,BGD
-Belarus,Republic of Belarus,BLR
-Belgium,Kingdom of Belgium,BEL
+official_name,short_name,ISO3
+Republic of Albania,Albania,ALB
+Republic of Angola,Angola,AGO
+Argentine Republic,Argentina,ARG
+Republic of Armenia,Armenia,ARM
+Commonwealth of Australia,Australia,AUS
+Republic of Austria,Austria,AUT
+Republic of Azerbaijan,Azerbaijan,AZE
+Commonwealth of the Bahamas,Bahamas,BHS
+Kingdom of Bahrain,Bahrain,BHR
+People's Republic of Bangladesh,Bangladesh,BGD
+Republic of Belarus,Belarus,BLR
+Kingdom of Belgium,Belgium,BEL
 Belize,Belize,BLZ
-Benin,Republic of Benin,BEN
-Bolivia,Plurinational State of Bolivia,BOL
+Republic of Benin,Benin,BEN
+Plurinational State of Bolivia,Bolivia,BOL
 Bosnia and Herzegovina,Bosnia and Herzegovina,BIH
-Botswana,Republic of Botswana,BWA
-Brazil,Federative Republic of Brazil,BRA
-Bulgaria,Republic of Bulgaria,BGR
+Republic of Botswana,Botswana,BWA
+Federative Republic of Brazil,Brazil,BRA
+Republic of Bulgaria,Bulgaria,BGR
 Burkina Faso,Burkina Faso,BFA
-Cabo Verde,Republic of Cabo Verde,CPV
-Cambodia,Kingdom of Cambodia,KHM
-Cameroon,Republic of Cameroon,CMR
+Republic of Cabo Verde,Cabo Verde,CPV
+Kingdom of Cambodia,Cambodia,KHM
+Republic of Cameroon,Cameroon,CMR
 Canada,Canada,CAN
-Chile,Republic of Chile,CHL
-China,People's Republic of China,CHN
-Hong Kong,Hong Kong SAR,HKG
-Colombia,Republic of Colombia,COL
-Congo Republic,Republic of the Congo,COG
-Costa Rica,Republic of Costa Rica,CRI
-Croatia,Republic of Croatia,HRV
-Cuba,Republic of Cuba,CUB
-Cyprus,Republic of Cyprus,CYP
+Republic of Chile,Chile,CHL
+People's Republic of China,China,CHN
+Hong Kong SAR,Hong Kong,HKG
+Republic of Colombia,Colombia,COL
+Republic of the Congo,Congo Republic,COG
+Republic of Costa Rica,Costa Rica,CRI
+Republic of Croatia,Croatia,HRV
+Republic of Cuba,Cuba,CUB
+Republic of Cyprus,Cyprus,CYP
 Czech Republic,Czech Republic,CZE
-Cote d'Ivoire,Republic of Côte d'Ivoire,CIV
-DR Congo,Democratic Republic of the Congo,COD
-Denmark,Kingdom of Denmark,DNK
+Republic of Côte d'Ivoire,Cote d'Ivoire,CIV
+Democratic Republic of the Congo,DR Congo,COD
+Kingdom of Denmark,Denmark,DNK
 Dominican Republic,Dominican Republic,DOM
-Ecuador,Republic of Ecuador,ECU
-Egypt,Arab Republic of Egypt,EGY
-El Salvador,Republic of El Salvador,SLV
-Estonia,Republic of Estonia,EST
-Ethiopia,Federal Democratic Republic of Ethiopia,ETH
-Finland,Republic of Finland,FIN
-France,French Republic,FRA
-Gambia,Republic of the Gambia,GMB
+Republic of Ecuador,Ecuador,ECU
+Arab Republic of Egypt,Egypt,EGY
+Republic of El Salvador,El Salvador,SLV
+Republic of Estonia,Estonia,EST
+Federal Democratic Republic of Ethiopia,Ethiopia,ETH
+Republic of Finland,Finland,FIN
+French Republic,France,FRA
+Republic of the Gambia,Gambia,GMB
 Georgia,Georgia,GEO
-Germany,Federal Republic of Germany,DEU
-Ghana,Republic of Ghana,GHA
-Greece,Hellenic Republic,GRC
-Guatemala,Republic of Guatemala,GTM
-Guyana,Co-operative Republic of Guyana,GUY
-Haiti,Republic of Haiti,HTI
-Honduras,Republic of Honduras,HND
-Hungary,Republic of Hungary,HUN
-India,Republic of India,IND
-Indonesia,Republic of Indonesia,IDN
+Federal Republic of Germany,Germany,DEU
+Republic of Ghana,Ghana,GHA
+Hellenic Republic,Greece,GRC
+Republic of Guatemala,Guatemala,GTM
+Co-operative Republic of Guyana,Guyana,GUY
+Republic of Haiti,Haiti,HTI
+Republic of Honduras,Honduras,HND
+Republic of Hungary,Hungary,HUN
+Republic of India,India,IND
+Republic of Indonesia,Indonesia,IDN
 Ireland,Ireland,IRL
-Israel,State of Israel,ISR
-Italy,Italian Republic,ITA
+State of Israel,Israel,ISR
+Italian Republic,Italy,ITA
 Jamaica,Jamaica,JAM
 Japan,Japan,JPN
-Jordan,Hashemite Kingdom of Jordan,JOR
-Kazakhstan,Republic of Kazakhstan,KAZ
-Kenya,Republic of Kenya,KEN
-Kosovo,Republic of Kosovo,XKX
+Hashemite Kingdom of Jordan,Jordan,JOR
+Republic of Kazakhstan,Kazakhstan,KAZ
+Republic of Kenya,Kenya,KEN
+Republic of Kosovo,Kosovo,XKX
 Kyrgyz Republic,Kyrgyz Republic,KGZ
-Latvia,Republic of Latvia,LVA
-Liberia,Republic of Liberia,LBR
-Lithuania,Republic of Lithuania,LTU
-Luxembourg,Grand Duchy of Luxembourg,LUX
-Malawi,Republic of Malawi,MWI
+Republic of Latvia,Latvia,LVA
+Republic of Liberia,Liberia,LBR
+Republic of Lithuania,Lithuania,LTU
+Grand Duchy of Luxembourg,Luxembourg,LUX
+Republic of Malawi,Malawi,MWI
 Malaysia,Malaysia,MYS
-Malta,Republic of Malta,MLT
-Mexico,United Mexican States,MEX
+Republic of Malta,Malta,MLT
+United Mexican States,Mexico,MEX
 Mongolia,Mongolia,MNG
 Montenegro,Montenegro,MNE
-Morocco,Kingdom of Morocco,MAR
-Mozambique,Republic of Mozambique,MOZ
-Myanmar,Republic of the Union of Myanmar,MMR
-Namibia,Republic of Namibia,NAM
-Nepal,Federal Democratic Republic of Nepal,NPL
-Netherlands,Kingdom of the Netherlands,NLD
+Kingdom of Morocco,Morocco,MAR
+Republic of Mozambique,Mozambique,MOZ
+Republic of the Union of Myanmar,Myanmar,MMR
+Republic of Namibia,Namibia,NAM
+Federal Democratic Republic of Nepal,Nepal,NPL
+Kingdom of the Netherlands,Netherlands,NLD
 New Caledonia,New Caledonia,NCL
 New Zealand,New Zealand,NZL
-Nicaragua,Republic of Nicaragua,NIC
-Nigeria,Federal Republic of Nigeria,NGA
-Macedonia,Republic of Macedonia,MKD
-Norway,Kingdom of Norway,NOR
-Oman,Sultanate of Oman,OMN
-Panama,Republic of Panama,PAN
-Paraguay,Republic of Paraguay,PRY
-Peru,Republic of Peru,PER
-Philippines,Republic of the Philippines,PHL
-Poland,Republic of Poland,POL
-Portugal,Portuguese Republic,PRT
-Qatar,State of Qatar,QAT
-South Korea,Republic of Korea,KOR
-Moldova,Republic of Moldova,MDA
+Republic of Nicaragua,Nicaragua,NIC
+Federal Republic of Nigeria,Nigeria,NGA
+Republic of Macedonia,Macedonia,MKD
+Kingdom of Norway,Norway,NOR
+Sultanate of Oman,Oman,OMN
+Republic of Panama,Panama,PAN
+Republic of Paraguay,Paraguay,PRY
+Republic of Peru,Peru,PER
+Republic of the Philippines,Philippines,PHL
+Republic of Poland,Poland,POL
+Portuguese Republic,Portugal,PRT
+State of Qatar,Qatar,QAT
+Republic of Korea,South Korea,KOR
+Republic of Moldova,Moldova,MDA
 Romania,Romania,ROU
-Russia,Russian Federation,RUS
-Rwanda,Republic of Rwanda,RWA
-St. Lucia,not found,not found
-Saudi Arabia,Kingdom of Saudi Arabia,SAU
-Senegal,Republic of Senegal,SEN
-Serbia,Republic of Serbia,SRB
-Seychelles,Republic of Seychelles,SYC
-Sierra Leone,Republic of Sierra Leone,SLE
-Singapore,Republic of Singapore,SGP
-Slovakia,Slovak Republic,SVK
-Slovenia,Republic of Slovenia,SVN
-South Africa,Republic of South Africa,ZAF
-Spain,Kingdom of Spain,ESP
-Sri Lanka,Democratic Socialist Republic of Sri Lanka,LKA
-Palestine,State of Palestine,PSE
-Sweden,Kingdom of Sweden,SWE
-Switzerland,Swiss Confederation,CHE
-Taiwan,Republic of China,TWN
-Tajikistan,Republic of Tajikistan,TJK
-Thailand,Kingdom of Thailand,THA
-Togo,Togolese Republic,TGO
-Trinidad and Tobago,Republic of Trinidad and Tobago,TTO
-Tunisia,Republic of Tunisia,TUN
-Turkey,Republic of Turkey,TUR
+Russian Federation,Russia,RUS
+Republic of Rwanda,Rwanda,RWA
+Saint Lucia,St. Lucia,LCA
+Kingdom of Saudi Arabia,Saudi Arabia,SAU
+Republic of Senegal,Senegal,SEN
+Republic of Serbia,Serbia,SRB
+Republic of Seychelles,Seychelles,SYC
+Republic of Sierra Leone,Sierra Leone,SLE
+Republic of Singapore,Singapore,SGP
+Slovak Republic,Slovakia,SVK
+Republic of Slovenia,Slovenia,SVN
+Republic of South Africa,South Africa,ZAF
+Kingdom of Spain,Spain,ESP
+Democratic Socialist Republic of Sri Lanka,Sri Lanka,LKA
+State of Palestine,Palestine,PSE
+Kingdom of Sweden,Sweden,SWE
+Swiss Confederation,Switzerland,CHE
+Republic of China,Taiwan,TWN
+Republic of Tajikistan,Tajikistan,TJK
+Kingdom of Thailand,Thailand,THA
+Togolese Republic,Togo,TGO
+Republic of Trinidad and Tobago,Trinidad and Tobago,TTO
+Republic of Tunisia,Tunisia,TUN
+Republic of Turkey,Turkey,TUR
 Turkmenistan,Turkmenistan,TKM
-Uganda,Republic of Uganda,UGA
+Republic of Uganda,Uganda,UGA
 Ukraine,Ukraine,UKR
 United Arab Emirates,United Arab Emirates,ARE
-United Kingdom,United Kingdom of Great Britain and Northern Ireland,GBR
-United States,United States of America,USA
-Uruguay,Oriental Republic of Uruguay,URY
-Uzbekistan,Republic of Uzbekistan,UZB
-Venezuela,Bolivarian Republic of Venezuela,VEN
-Vietnam,Socialist Republic of Vietnam,VNM
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,GBR
+United States of America,United States,USA
+Oriental Republic of Uruguay,Uruguay,URY
+Republic of Uzbekistan,Uzbekistan,UZB
+Bolivarian Republic of Venezuela,Venezuela,VEN
+Socialist Republic of Vietnam,Vietnam,VNM
