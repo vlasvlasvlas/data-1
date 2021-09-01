@@ -1,0 +1,117 @@
+official_name,short_name,ISO3,indicator_name,score
+Republic of Albania,Albania,ALB,data_institutions,0.75
+Republic of Angola,Angola,AGO,data_institutions,0.5
+Argentine Republic,Argentina,ARG,data_institutions,1.0
+Republic of Armenia,Armenia,ARM,data_institutions,0.5
+Commonwealth of Australia,Australia,AUS,data_institutions,1.0
+Republic of Azerbaijan,Azerbaijan,AZE,data_institutions,0.5
+Commonwealth of the Bahamas,Bahamas,BHS,data_institutions,0.5
+Kingdom of Bahrain,Bahrain,BHR,data_institutions,0.5
+People's Republic of Bangladesh,Bangladesh,BGD,data_institutions,0.5
+Republic of Belarus,Belarus,BLR,data_institutions,0.5
+Belize,Belize,BLZ,data_institutions,0.0
+Republic of Benin,Benin,BEN,data_institutions,0.5
+Plurinational State of Bolivia,Bolivia,BOL,data_institutions,0.0
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,data_institutions,0.5
+Republic of Botswana,Botswana,BWA,data_institutions,0.25
+Federative Republic of Brazil,Brazil,BRA,data_institutions,1.0
+Republic of Bulgaria,Bulgaria,BGR,data_institutions,0.5
+Burkina Faso,Burkina Faso,BFA,data_institutions,0.5
+Kingdom of Cambodia,Cambodia,KHM,data_institutions,0.0
+Republic of Cameroon,Cameroon,CMR,data_institutions,0.0
+Canada,Canada,CAN,data_institutions,1.0
+Republic of Chile,Chile,CHL,data_institutions,0.75
+People's Republic of China,China,CHN,data_institutions,1.0
+Hong Kong SAR,Hong Kong,HKG,data_institutions,1.0
+Republic of Colombia,Colombia,COL,data_institutions,0.75
+Republic of Costa Rica,Costa Rica,CRI,data_institutions,0.5
+Republic of Croatia,Croatia,HRV,data_institutions,1.0
+Czech Republic,Czech Republic,CZE,data_institutions,1.0
+Republic of Côte d'Ivoire,Cote d'Ivoire,CIV,data_institutions,0.5
+Democratic Republic of the Congo,DR Congo,COD,data_institutions,0.0
+Kingdom of Denmark,Denmark,DNK,data_institutions,1.0
+Dominican Republic,Dominican Republic,DOM,data_institutions,0.0
+Republic of Ecuador,Ecuador,ECU,data_institutions,0.0
+Arab Republic of Egypt,Egypt,EGY,data_institutions,0.5
+Republic of El Salvador,El Salvador,SLV,data_institutions,0.0
+Republic of Estonia,Estonia,EST,data_institutions,1.0
+Federal Democratic Republic of Ethiopia,Ethiopia,ETH,data_institutions,0.0
+Republic of Finland,Finland,FIN,data_institutions,1.0
+French Republic,France,FRA,data_institutions,1.0
+Republic of the Gambia,Gambia,GMB,data_institutions,0.0
+Georgia,Georgia,GEO,data_institutions,0.5
+Federal Republic of Germany,Germany,DEU,data_institutions,1.0
+Republic of Ghana,Ghana,GHA,data_institutions,0.75
+Hellenic Republic,Greece,GRC,data_institutions,1.0
+Republic of Guatemala,Guatemala,GTM,data_institutions,0.0
+Co-operative Republic of Guyana,Guyana,GUY,data_institutions,0.0
+Republic of Haiti,Haiti,HTI,data_institutions,0.0
+Republic of Honduras,Honduras,HND,data_institutions,0.5
+Republic of India,India,IND,data_institutions,0.5
+Republic of Indonesia,Indonesia,IDN,data_institutions,0.5
+Ireland,Ireland,IRL,data_institutions,1.0
+State of Israel,Israel,ISR,data_institutions,1.0
+Italian Republic,Italy,ITA,data_institutions,1.0
+Jamaica,Jamaica,JAM,data_institutions,0.0
+Hashemite Kingdom of Jordan,Jordan,JOR,data_institutions,0.5
+Republic of Kazakhstan,Kazakhstan,KAZ,data_institutions,0.0
+Republic of Kenya,Kenya,KEN,data_institutions,0.0
+Republic of Kosovo,Kosovo,XKX,data_institutions,0.5
+Kyrgyz Republic,Kyrgyz Republic,KGZ,data_institutions,0.0
+Republic of Latvia,Latvia,LVA,data_institutions,0.5
+Republic of Liberia,Liberia,LBR,data_institutions,0.0
+Republic of Lithuania,Lithuania,LTU,data_institutions,0.5
+Republic of Malawi,Malawi,MWI,data_institutions,0.0
+Malaysia,Malaysia,MYS,data_institutions,1.0
+Republic of Malta,Malta,MLT,data_institutions,1.0
+United Mexican States,Mexico,MEX,data_institutions,1.0
+Mongolia,Mongolia,MNG,data_institutions,0.0
+Montenegro,Montenegro,MNE,data_institutions,0.5
+Kingdom of Morocco,Morocco,MAR,data_institutions,0.5
+Republic of Mozambique,Mozambique,MOZ,data_institutions,0.0
+Republic of Namibia,Namibia,NAM,data_institutions,0.0
+Federal Democratic Republic of Nepal,Nepal,NPL,data_institutions,0.5
+Kingdom of the Netherlands,Netherlands,NLD,data_institutions,1.0
+New Caledonia,New Caledonia,NCL,data_institutions,
+New Zealand,New Zealand,NZL,data_institutions,1.0
+Federal Republic of Nigeria,Nigeria,NGA,data_institutions,0.5
+Republic of Macedonia,Macedonia,MKD,data_institutions,0.75
+Sultanate of Oman,Oman,OMN,data_institutions,0.5
+Republic of Panama,Panama,PAN,data_institutions,0.5
+Republic of Paraguay,Paraguay,PRY,data_institutions,0.5
+Republic of Peru,Peru,PER,data_institutions,1.0
+Republic of the Philippines,Philippines,PHL,data_institutions,0.5
+Portuguese Republic,Portugal,PRT,data_institutions,0.5
+State of Qatar,Qatar,QAT,data_institutions,1.0
+Republic of Korea,South Korea,KOR,data_institutions,1.0
+Republic of Moldova,Moldova,MDA,data_institutions,1.0
+Romania,Romania,ROU,data_institutions,0.5
+Russian Federation,Russia,RUS,data_institutions,0.75
+Republic of Rwanda,Rwanda,RWA,data_institutions,0.5
+Saint Lucia,St. Lucia,LCA,data_institutions,0.0
+Kingdom of Saudi Arabia,Saudi Arabia,SAU,data_institutions,0.0
+Republic of Senegal,Senegal,SEN,data_institutions,0.5
+Republic of Serbia,Serbia,SRB,data_institutions,0.5
+Republic of Seychelles,Seychelles,SYC,data_institutions,0.25
+Republic of Sierra Leone,Sierra Leone,SLE,data_institutions,0.0
+Republic of South Africa,South Africa,ZAF,data_institutions,0.75
+Kingdom of Spain,Spain,ESP,data_institutions,1.0
+Democratic Socialist Republic of Sri Lanka,Sri Lanka,LKA,data_institutions,0.25
+State of Palestine,Palestine,PSE,data_institutions,0.0
+Kingdom of Sweden,Sweden,SWE,data_institutions,1.0
+Republic of China,Taiwan,TWN,data_institutions,0.0
+Republic of Tajikistan,Tajikistan,TJK,data_institutions,0.5
+Kingdom of Thailand,Thailand,THA,data_institutions,1.0
+Togolese Republic,Togo,TGO,data_institutions,0.0
+Republic of Trinidad and Tobago,Trinidad and Tobago,TTO,data_institutions,0.5
+Republic of Tunisia,Tunisia,TUN,data_institutions,0.5
+Republic of Turkey,Turkey,TUR,data_institutions,1.0
+Turkmenistan,Turkmenistan,TKM,data_institutions,0.0
+Republic of Uganda,Uganda,UGA,data_institutions,0.5
+Ukraine,Ukraine,UKR,data_institutions,0.5
+United Arab Emirates,United Arab Emirates,ARE,data_institutions,0.5
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,GBR,data_institutions,1.0
+United States of America,United States,USA,data_institutions,0.5
+Oriental Republic of Uruguay,Uruguay,URY,data_institutions,1.0
+Republic of Uzbekistan,Uzbekistan,UZB,data_institutions,0.25
+Socialist Republic of Vietnam,Vietnam,VNM,data_institutions,1.0
