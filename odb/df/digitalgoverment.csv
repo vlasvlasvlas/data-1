@@ -1,34 +1,117 @@
-Row Labels;Count of score;F acum;;
-0.0;1;1;0,008695652;
-0.06666666666666667;3;4;0,034782609;
-0.13333333333333333;5;9;0,07826087;
-0.16666666666666666;1;10;0,086956522;
-0.2;10;20;0,173913043;
-0.2333333333333333;1;21;0,182608696;1 quintil
-0.26666666666666666;5;26;0,226086957;
-0.3;1;27;0,234782609;
-0.3333333333333333;2;29;0,252173913;1Q
-0.3666666666666666;1;30;0,260869565;
-0.36666666666666664;2;32;0,27826087;
-0.39999999999999997;1;33;0,286956522;
-0.4;3;36;0,313043478;
-0.4333333333333333;3;39;0,339130435;
-0.4666666666666666;3;42;0,365217391;
-0.5;3;45;0,391304348;2 quintil
-0.5333333333333333;3;48;0,417391304;
-0.5666666666666667;8;56;0,486956522;2Q
-0.6;7;63;0,547826087;
-0.6333333333333333;3;66;0,573913043;
-0.6666666666666666;3;69;0,6;3 quintil
-0.6666666666666667;2;71;0,617391304;
-0.7333333333333333;6;77;0,669565217;
-0.7666666666666666;3;80;0,695652174;
-0.7666666666666667;2;82;0,713043478;
-0.8;2;84;0,730434783;4 quintil
-0.8333333333333333;10;94;0,817391304;
-0.8666666666666666;1;95;0,826086957;
-0.8666666666666668;2;97;0,843478261;
-0.9333333333333332;15;112;0,973913043;
-1.0;3;115;1;
-(blank);;;;
-Grand Total;115;;;
+official_name,short_name,ISO3,indicator_name,score
+Republic of Albania,Albania,ALB,digital_goverment,0.7333333333333333
+Republic of Angola,Angola,AGO,digital_goverment,0.2333333333333333
+Argentine Republic,Argentina,ARG,digital_goverment,0.9333333333333332
+Republic of Armenia,Armenia,ARM,digital_goverment,0.36666666666666664
+Commonwealth of Australia,Australia,AUS,digital_goverment,0.9333333333333332
+Republic of Azerbaijan,Azerbaijan,AZE,digital_goverment,0.6
+Commonwealth of the Bahamas,Bahamas,BHS,digital_goverment,0.16666666666666666
+Kingdom of Bahrain,Bahrain,BHR,digital_goverment,0.5333333333333333
+People's Republic of Bangladesh,Bangladesh,BGD,digital_goverment,0.7333333333333333
+Republic of Belarus,Belarus,BLR,digital_goverment,0.6
+Belize,Belize,BLZ,digital_goverment,0.2
+Republic of Benin,Benin,BEN,digital_goverment,0.4
+Plurinational State of Bolivia,Bolivia,BOL,digital_goverment,0.4333333333333333
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,digital_goverment,0.13333333333333333
+Republic of Botswana,Botswana,BWA,digital_goverment,0.2
+Federative Republic of Brazil,Brazil,BRA,digital_goverment,1.0
+Republic of Bulgaria,Bulgaria,BGR,digital_goverment,0.5
+Burkina Faso,Burkina Faso,BFA,digital_goverment,0.4
+Kingdom of Cambodia,Cambodia,KHM,digital_goverment,0.6
+Republic of Cameroon,Cameroon,CMR,digital_goverment,0.2
+Canada,Canada,CAN,digital_goverment,0.9333333333333332
+Republic of Chile,Chile,CHL,digital_goverment,0.8333333333333333
+People's Republic of China,China,CHN,digital_goverment,0.8666666666666668
+Hong Kong SAR,Hong Kong,HKG,digital_goverment,0.7666666666666666
+Republic of Colombia,Colombia,COL,digital_goverment,0.8333333333333333
+Republic of Costa Rica,Costa Rica,CRI,digital_goverment,0.3
+Republic of Croatia,Croatia,HRV,digital_goverment,0.7333333333333333
+Czech Republic,Czech Republic,CZE,digital_goverment,0.9333333333333332
+Republic of Côte d'Ivoire,Cote d'Ivoire,CIV,digital_goverment,0.06666666666666667
+Democratic Republic of the Congo,DR Congo,COD,digital_goverment,0.2
+Kingdom of Denmark,Denmark,DNK,digital_goverment,0.9333333333333332
+Dominican Republic,Dominican Republic,DOM,digital_goverment,0.6
+Republic of Ecuador,Ecuador,ECU,digital_goverment,0.6333333333333333
+Arab Republic of Egypt,Egypt,EGY,digital_goverment,0.7666666666666666
+Republic of El Salvador,El Salvador,SLV,digital_goverment,0.6
+Republic of Estonia,Estonia,EST,digital_goverment,0.9333333333333332
+Federal Democratic Republic of Ethiopia,Ethiopia,ETH,digital_goverment,0.13333333333333333
+Republic of Finland,Finland,FIN,digital_goverment,1.0
+French Republic,France,FRA,digital_goverment,1.0
+Republic of the Gambia,Gambia,GMB,digital_goverment,0.2
+Georgia,Georgia,GEO,digital_goverment,0.4333333333333333
+Federal Republic of Germany,Germany,DEU,digital_goverment,0.9333333333333332
+Republic of Ghana,Ghana,GHA,digital_goverment,0.4666666666666666
+Hellenic Republic,Greece,GRC,digital_goverment,0.5666666666666667
+Republic of Guatemala,Guatemala,GTM,digital_goverment,0.13333333333333333
+Co-operative Republic of Guyana,Guyana,GUY,digital_goverment,0.2
+Republic of Haiti,Haiti,HTI,digital_goverment,0.2
+Republic of Honduras,Honduras,HND,digital_goverment,0.3333333333333333
+Republic of India,India,IND,digital_goverment,0.8333333333333333
+Republic of Indonesia,Indonesia,IDN,digital_goverment,0.4
+Ireland,Ireland,IRL,digital_goverment,0.6666666666666667
+State of Israel,Israel,ISR,digital_goverment,0.7666666666666667
+Italian Republic,Italy,ITA,digital_goverment,0.8333333333333333
+Jamaica,Jamaica,JAM,digital_goverment,0.4333333333333333
+Hashemite Kingdom of Jordan,Jordan,JOR,digital_goverment,0.26666666666666666
+Republic of Kazakhstan,Kazakhstan,KAZ,digital_goverment,0.6666666666666667
+Republic of Kenya,Kenya,KEN,digital_goverment,0.5333333333333333
+Republic of Kosovo,Kosovo,XKX,digital_goverment,0.3333333333333333
+Kyrgyz Republic,Kyrgyz Republic,KGZ,digital_goverment,0.5666666666666667
+Republic of Latvia,Latvia,LVA,digital_goverment,0.6666666666666666
+Republic of Liberia,Liberia,LBR,digital_goverment,0.0
+Republic of Lithuania,Lithuania,LTU,digital_goverment,0.8
+Republic of Malawi,Malawi,MWI,digital_goverment,0.26666666666666666
+Malaysia,Malaysia,MYS,digital_goverment,0.9333333333333332
+Republic of Malta,Malta,MLT,digital_goverment,0.9333333333333332
+United Mexican States,Mexico,MEX,digital_goverment,0.8333333333333333
+Mongolia,Mongolia,MNG,digital_goverment,0.39999999999999997
+Montenegro,Montenegro,MNE,digital_goverment,0.26666666666666666
+Kingdom of Morocco,Morocco,MAR,digital_goverment,0.6666666666666666
+Republic of Mozambique,Mozambique,MOZ,digital_goverment,0.26666666666666666
+Republic of Namibia,Namibia,NAM,digital_goverment,0.13333333333333333
+Federal Democratic Republic of Nepal,Nepal,NPL,digital_goverment,0.7333333333333333
+Kingdom of the Netherlands,Netherlands,NLD,digital_goverment,0.9333333333333332
+New Caledonia,New Caledonia,NCL,digital_goverment,
+New Zealand,New Zealand,NZL,digital_goverment,0.8333333333333333
+Federal Republic of Nigeria,Nigeria,NGA,digital_goverment,0.5666666666666667
+Republic of Macedonia,Macedonia,MKD,digital_goverment,0.5666666666666667
+Sultanate of Oman,Oman,OMN,digital_goverment,0.4666666666666666
+Republic of Panama,Panama,PAN,digital_goverment,0.3666666666666666
+Republic of Paraguay,Paraguay,PRY,digital_goverment,0.6333333333333333
+Republic of Peru,Peru,PER,digital_goverment,0.5666666666666667
+Republic of the Philippines,Philippines,PHL,digital_goverment,0.5666666666666667
+Portuguese Republic,Portugal,PRT,digital_goverment,0.8333333333333333
+State of Qatar,Qatar,QAT,digital_goverment,0.8333333333333333
+Republic of Korea,South Korea,KOR,digital_goverment,0.9333333333333332
+Republic of Moldova,Moldova,MDA,digital_goverment,0.6666666666666666
+Romania,Romania,ROU,digital_goverment,0.4666666666666666
+Russian Federation,Russia,RUS,digital_goverment,0.7666666666666666
+Republic of Rwanda,Rwanda,RWA,digital_goverment,0.5666666666666667
+Saint Lucia,St. Lucia,LCA,digital_goverment,0.06666666666666667
+Kingdom of Saudi Arabia,Saudi Arabia,SAU,digital_goverment,0.9333333333333332
+Republic of Senegal,Senegal,SEN,digital_goverment,0.2
+Republic of Serbia,Serbia,SRB,digital_goverment,0.6333333333333333
+Republic of Seychelles,Seychelles,SYC,digital_goverment,0.13333333333333333
+Republic of Sierra Leone,Sierra Leone,SLE,digital_goverment,0.5
+Republic of South Africa,South Africa,ZAF,digital_goverment,0.8666666666666668
+Kingdom of Spain,Spain,ESP,digital_goverment,0.9333333333333332
+Democratic Socialist Republic of Sri Lanka,Sri Lanka,LKA,digital_goverment,0.7666666666666667
+State of Palestine,Palestine,PSE,digital_goverment,0.26666666666666666
+Kingdom of Sweden,Sweden,SWE,digital_goverment,0.8333333333333333
+Republic of China,Taiwan,TWN,digital_goverment,0.8
+Republic of Tajikistan,Tajikistan,TJK,digital_goverment,0.2
+Kingdom of Thailand,Thailand,THA,digital_goverment,0.9333333333333332
+Togolese Republic,Togo,TGO,digital_goverment,0.2
+Republic of Trinidad and Tobago,Trinidad and Tobago,TTO,digital_goverment,0.36666666666666664
+Republic of Tunisia,Tunisia,TUN,digital_goverment,0.5333333333333333
+Republic of Turkey,Turkey,TUR,digital_goverment,0.7333333333333333
+Turkmenistan,Turkmenistan,TKM,digital_goverment,0.06666666666666667
+Republic of Uganda,Uganda,UGA,digital_goverment,0.6
+Ukraine,Ukraine,UKR,digital_goverment,0.5666666666666667
+United Arab Emirates,United Arab Emirates,ARE,digital_goverment,0.8333333333333333
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,GBR,digital_goverment,0.9333333333333332
+United States of America,United States,USA,digital_goverment,0.8666666666666666
+Oriental Republic of Uruguay,Uruguay,URY,digital_goverment,0.7333333333333333
+Republic of Uzbekistan,Uzbekistan,UZB,digital_goverment,0.5
+Socialist Republic of Vietnam,Vietnam,VNM,digital_goverment,0.6
